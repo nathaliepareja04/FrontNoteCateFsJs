@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import { useEffect, useState, useRef } from "react";
 import { categories} from "./fakeData/Data";
 import { useDispatch, useSelector } from "react-redux";
